@@ -1,2 +1,2 @@
 # Core-DB
-Database for connections through PHP done through a library providing asynchronous threaded connections (libasynql)
+Database queries for Athena connections through PHP done via a library providing asynchronous threaded connections (libasynql). 
