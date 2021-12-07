@@ -1,2 +1,2 @@
 # Athena's Databases
-Database queries for Athena connections through PHP done via a library providing asynchronous connections (libasynql). 
+Database queries used by Athena to connect to MySQL. Done in PHP with libasynql library which provides asynchronous connections and more efficiency. 
